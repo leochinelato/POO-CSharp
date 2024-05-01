@@ -1,0 +1,15 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\bin\Debug\net8.0\09This.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\bin\Debug\net8.0\09This.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\bin\Debug\net8.0\09This.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\bin\Debug\net8.0\09This.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\bin\Debug\net8.0\09This.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.sourcelink.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\refint\09This.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\09This.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\09This\obj\Debug\net8.0\ref\09This.dll
