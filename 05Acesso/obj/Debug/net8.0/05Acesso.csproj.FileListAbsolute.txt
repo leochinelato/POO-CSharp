@@ -1,0 +1,14 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\bin\Debug\net8.0\05Acesso.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\bin\Debug\net8.0\05Acesso.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\bin\Debug\net8.0\05Acesso.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\bin\Debug\net8.0\05Acesso.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\bin\Debug\net8.0\05Acesso.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\refint\05Acesso.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\05Acesso.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\05Acesso\obj\Debug\net8.0\ref\05Acesso.dll

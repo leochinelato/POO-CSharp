@@ -1,0 +1,14 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\bin\Debug\net8.0\07Construtor.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\bin\Debug\net8.0\07Construtor.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\bin\Debug\net8.0\07Construtor.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\bin\Debug\net8.0\07Construtor.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\bin\Debug\net8.0\07Construtor.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\refint\07Construtor.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\ref\07Construtor.dll

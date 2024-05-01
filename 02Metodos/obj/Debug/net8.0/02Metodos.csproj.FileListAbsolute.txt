@@ -1,0 +1,14 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\bin\Debug\net8.0\02Metodos.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\bin\Debug\net8.0\02Metodos.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\bin\Debug\net8.0\02Metodos.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\bin\Debug\net8.0\02Metodos.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\bin\Debug\net8.0\02Metodos.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\refint\02Metodos.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\02Metodos.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\02Metodos\obj\Debug\net8.0\ref\02Metodos.dll

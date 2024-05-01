@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace _07Construtor
+{
+    public class Pessoa
+    {
+        public Pessoa()
+        {
+            Console.WriteLine("Construtor Executado");
+        }
+    }
+}
