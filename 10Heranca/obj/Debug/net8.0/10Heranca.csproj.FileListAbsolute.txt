@@ -1,0 +1,15 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\bin\Debug\net8.0\10Heranca.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\bin\Debug\net8.0\10Heranca.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\bin\Debug\net8.0\10Heranca.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\bin\Debug\net8.0\10Heranca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\bin\Debug\net8.0\10Heranca.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.sourcelink.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\refint\10Heranca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\10Heranca.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\10Heranca\obj\Debug\net8.0\ref\10Heranca.dll
