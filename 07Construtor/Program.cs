@@ -1,3 +1,3 @@
 ﻿using _07Construtor;
 
-Pessoa pessoa1 = new();
+Pessoa pessoa1 = new("Leonardo");

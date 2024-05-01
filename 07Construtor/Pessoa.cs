@@ -9,7 +9,14 @@ namespace _07Construtor
     {
         public Pessoa()
         {
+            // Construtor
             Console.WriteLine("Construtor Executado");
+
+        }
+
+        public Pessoa(string nome)
+        {
+            Console.WriteLine($"Olá {nome}");
         }
     }
 }

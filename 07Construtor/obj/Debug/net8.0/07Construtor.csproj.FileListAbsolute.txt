@@ -12,3 +12,4 @@ C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj
 C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.pdb
 C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.genruntimeconfig.cache
 C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\ref\07Construtor.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\07Construtor\obj\Debug\net8.0\07Construtor.sourcelink.json
