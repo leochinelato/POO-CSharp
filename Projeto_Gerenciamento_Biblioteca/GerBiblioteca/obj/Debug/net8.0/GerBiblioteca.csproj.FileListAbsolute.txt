@@ -1,0 +1,15 @@
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\bin\Debug\net8.0\GerBiblioteca.exe
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\bin\Debug\net8.0\GerBiblioteca.deps.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\bin\Debug\net8.0\GerBiblioteca.runtimeconfig.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\bin\Debug\net8.0\GerBiblioteca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\bin\Debug\net8.0\GerBiblioteca.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.AssemblyInfoInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.AssemblyInfo.cs
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.sourcelink.json
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\refint\GerBiblioteca.dll
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.pdb
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\GerBiblioteca.genruntimeconfig.cache
+C:\Users\leoch\Documents\Trabalho\CSharp\Orientação a Objetos\Projeto_Gerenciamento_Biblioteca\GerBiblioteca\obj\Debug\net8.0\ref\GerBiblioteca.dll
