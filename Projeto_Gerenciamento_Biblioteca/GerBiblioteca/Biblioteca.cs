@@ -13,13 +13,13 @@ namespace GerBiblioteca
         public void AdicionarLivro(Livro livro)
         {
             acervoLivros.Add(livro);
-            Console.WriteLine($"Livro '{livro.titulo}' adicionado ao acerto da biblioteca.");
+            Console.WriteLine($"Livro '{livro.titulo}' adicionado ao acervo da biblioteca.");
         }
 
         public void CadastrarCliente(Cliente cliente)
         {
             clientesCadastrados.Add(cliente);
-            Console.WriteLine($"Cliente id[{cliente.id}] e nome [{cliente.nome}] cadastrado com sucesso.");
+            Console.WriteLine($"Cliente [ID: {cliente.id} | NOME: {cliente.nome}] cadastrado com sucesso.");
         }
 
         public void RealizarEmprestimo(Cliente cliente, Livro livro)
@@ -30,7 +30,7 @@ namespace GerBiblioteca
                 {
                     cliente.AdicionarEmprestimo(livro);
                     livro.MarcarComoEmprestado();
-                    Console.WriteLine($"O livro [{livro.titulo}] foi emprestado para: ID [{cliente.id}], NOME [{cliente.nome}]");
+                    Console.WriteLine($"O livro [{livro.titulo}] foi emprestado para: [ID: {cliente.id} | NOME: {cliente.nome}]");
                 }
                 else
                 {

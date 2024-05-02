@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerBiblioteca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a7af2ed206665092ada0c9e42b3b493088e67db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ea42492954bd4ed3b61ec49bfc3f4b2f36d467e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerBiblioteca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerBiblioteca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
